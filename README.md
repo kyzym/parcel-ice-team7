@@ -1,6 +1,6 @@
 # IceCream
 
-![IceCream Logo](logo.png)
+<img width="920" alt="image" src="https://github.com/kyzym/parcel-ice-team7/assets/102521716/d09afe92-c79e-4759-b126-158e52772f29">
 
 Welcome to the **IceCream** project, an enticing landing page for an ice cream store. Created with HTML, SCSS, BEM, and JS, this site offers users an immersive experience of our ice cream range.
 
